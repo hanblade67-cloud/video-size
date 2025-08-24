@@ -1,9 +1,0 @@
-{
-  "id": "video-size",
-  "name": "Video Size",
-  "version": "0.1.0",
-  "minAppVersion": "1.5.0",
-  "author": "Hanblade",
-  "description": "Convert/compress videos (MP4/WebM), extract poster, set embed size.",
-  "isDesktopOnly": true
-}
