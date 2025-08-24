@@ -4,6 +4,8 @@
   "version": "0.2.4",
   "minAppVersion": "1.5.0",
   "author": "Hanblade",
-  "description": "Convert/compress videos (MP4/WebM), extract poster, set embed size.",
+  "description": "Resize embedded videos in preview: corner handles, size presets (144–1920 + custom), 16:9 container for vertical clips, per-note sizes, and “Reveal in file explorer”."
+",
   "isDesktopOnly": true
 }
+
