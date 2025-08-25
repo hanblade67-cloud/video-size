@@ -1,7 +1,7 @@
 {
   "id": "video-size",
   "name": "Video Size",
-  "version": "0.2.5",
+  "version": "0.2.6",
   "minAppVersion": "1.5.0",
   "author": "Hanblade",
   "description": "Resize embedded videos in preview: corner handles, size presets (144-1920 + custom), 16:9 container for vertical clips, per-note sizes, and Reveal in file explorer.",
